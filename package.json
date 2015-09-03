@@ -1,0 +1,28 @@
+{
+  "name": "open-issues",
+  "version": "1.0.0",
+  "description": "Open Issues counter",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt-nodejs": "~0.0.3",
+    "consolidate": "~0.9.1",
+    "express": "~3.5",
+    "swig": "~0.14.0",
+    "validator": "~1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh157/Git_Open_Issues.git"
+  },
+  "author": "Harsh Khetan",
+  "license": "BSD-2-Clause",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/harsh157/Git_Open_Issues/issues"
+  },
+  "homepage": "https://github.com/harsh157/Git_Open_Issues#readme"
+}
