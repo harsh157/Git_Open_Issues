@@ -12,3 +12,6 @@ Used request module of node to request github api to search issues which returns
 json with count of request.
 
 Views folder has all the views. In this case only homepage is required.
+
+Given more time i would handle the request as ajax request and populate data using
+callback function.
